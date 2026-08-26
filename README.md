@@ -135,21 +135,21 @@ Test 2	100 + 250	Sum = 350	✅ Successful
 
 🎓 Learning Outcomes
 
-Through this project, I learned:
+-Through this project, I learned:
 
-How to create and configure an AWS Lambda function
+-How to create and configure an AWS Lambda function
 
-How to write serverless logic using Python
+-How to write serverless logic using Python
 
-How to work with JSON events
+-How to work with JSON events
 
-How to test Lambda functions
+-How to test Lambda functions
 
-How to verify function outputs
+-How to verify function outputs
 
-How to monitor Lambda executions using CloudWatch
+-How to monitor Lambda executions using CloudWatch
 
-How serverless computing works without managing a traditional server
+-How serverless computing works without managing a traditional server
 
 
 
